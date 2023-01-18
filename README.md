@@ -1,4 +1,4 @@
-[![licens](https://img.shields.io/badge/licens-CC--BY--SA--4.0-green)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![licens](https://img.shields.io/badge/licens-CC--BY--SA--4.0-green)](https://creativecommons.org/licenses/by-sa/4.0/) ![release](https://img.shields.io/github/v/release/jechla/Noter-til-matematik-stx)
 # Noter til matematik (stx)
 
 Det følgende er nogle noter til matematik på stx, som undertegnet har skrevet på siden 2019. Noterne stilles frit til rådighed under en CC-BY-SA licens, hvilket giver ret til gratis at anvende noterne (se [betingelserne](#licens) længere nede).
