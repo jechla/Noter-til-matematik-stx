@@ -16,10 +16,10 @@ Disse noter begyndte jeg på, fordi jeg skulle undervise i differentialligninger
 Noterne bliver i perioder udvidet, og der bliver rettet fejl. Hvis man opdager en fejl, så må man gerne gøre opmærksom på den enten ved at lave et issue her på github, eller ved at skrive til min e-mail, som findes i noterne. Hvis man gør opmærksom på en fejl, så overhold almindelig god skik for noget sådant. Begynd med at se om man er i besiddelse af den nyeste udgave, og hvis ikke, så se efter om fejlen ikke skulle være rettet der.  Hvis ikke, så skriv til undertegnet. Husk, at en fejl ikke er en personlig fornærmelse af dig, så afhold dig fra negative tillægsord etc. Da jeg bruger min fritid på noterne, kan man ikke forvente, at fejl bliver rettet fra dag til dag (og slet ikke i ferier), så hav tålmodighed. 
 
 ## Versioner
-Da noterne hele tiden udvikler sig gives hver version et nummer. Der anvendes en udgaver af [semantisk versionering][semver]. For hvert nyt kapitel stiger minor-version med en. Patch-version stiger ved lidt større ændringer (ikke et rettet komma eller rettet stavefejl). Noterne når version 1, når noterne i al væsentlig grad dækker kernestoffet for Matematik på A-niveau på stx med opgaver til hvert kapitel. 
+Da noterne hele tiden udvikler sig gives hver version et nummer. Der anvendes en udgave af [semantisk versionering][semver]. For hvert nyt kapitel stiger minor-version med en. Patch-version stiger ved lidt større ændringer (ikke et rettet komma eller rettet stavefejl). Noterne når version 1, når noterne i al væsentlig grad dækker kernestoffet for Matematik på A-niveau på stx med opgaver til hvert kapitel. 
 
 ## Licens
- I noterne angives, der en copyright og en licens. Copyright optræder, fordi jeg er besiddelse af den uanset hvad. Så den kan lige så godt stå der. Sådan er retstilstanden på området. Men for, at andre kan bruge noterne, har jeg tilknyttet en licens: En såkaldt 'Creative Commons Attribution - Share alike' licens. Selve licensen kan ses [her][licenstekst]. Licensen giver brugeren af noterne ret til
+ I noterne angives der en copyright og en licens. Copyright optræder, fordi jeg er besiddelse af den uanset hvad. Så den kan lige så godt stå der. Sådan er retstilstanden på området. Men for, at andre kan bruge noterne, har jeg tilknyttet en licens: En såkaldt 'Creative Commons Attribution - Share alike' licens. Selve licensen kan ses [her][licenstekst]. Licensen giver brugeren af noterne ret til
 
 * At kopiere og distribuere noterne.
 * At ændre og arbejde videre på noterne.

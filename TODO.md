@@ -6,6 +6,7 @@
 ## Del 1 Grundlæggende emner
 
 * Grundforløbet: lineære funktioner, repræsentationsformer, stykkevise funktioner.
+* Lineær regression
 
 ## Del 2 Videregående emner
 
@@ -20,4 +21,4 @@
 * Integralregning: kurvelængde ud fra middelværdissætningen
 * Vektorfunktioner
 * Funktioner af to variable
-* Normalfordeling
+* Normalfordeling og lineær regression
