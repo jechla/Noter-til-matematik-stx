@@ -13,7 +13,6 @@
 * Vektorer: det hele.
 * Væksthastighed: sammensatte funktioner, kæderegel, produktregneregel, optimering.
 * Trigonometriske funktioner
-* Teori for binomialfordelingen
 
 ## Del 3 Avancerede emner
 
@@ -21,4 +20,3 @@
 * Integralregning: kurvelængde ud fra middelværdissætningen
 * Vektorfunktioner
 * Funktioner af to variable
-* Normalfordeling og lineær regression
